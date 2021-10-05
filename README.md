@@ -29,4 +29,6 @@ Run the consumer in dev mode `npm run start:dev`
 ### request/response approach  
 `GET` to `http://localhost:3000/kafka-test-with-response`
 
+_Please do not ever use hardcoded configuration in your projects. Use at least a `.env` instead._  
+
 Reference [Article](https://makinhs.medium.com/a-beginners-introduction-to-kafka-with-typescript-using-nestjs-7c92fe78f638)
