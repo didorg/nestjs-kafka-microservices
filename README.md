@@ -1,4 +1,4 @@
-# nestjs-kafka-tutorial
+# Nestjs Kafka Microservices
 
 ## How to run Kafka locally
 
